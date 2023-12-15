@@ -1,1 +1,1 @@
-# Landing-page
+Creating a landing page as one of the lessons for the odin project
